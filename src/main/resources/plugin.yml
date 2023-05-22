@@ -1,0 +1,6 @@
+name: AutoShutdown
+version: 1.0.0
+main: com.snowballnya.AutoShutdown
+api-version: 1.12
+author: Snowball_233
+description: The plugin of automatic shutdown the server
